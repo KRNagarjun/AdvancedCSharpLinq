@@ -1,0 +1,13 @@
+C:\Users\USER\OneDrive\Desktop\L&T\CSharpAdvanced\bin\Debug\netcoreapp3.1\CSharpAdvanced.exe
+C:\Users\USER\OneDrive\Desktop\L&T\CSharpAdvanced\bin\Debug\netcoreapp3.1\CSharpAdvanced.deps.json
+C:\Users\USER\OneDrive\Desktop\L&T\CSharpAdvanced\bin\Debug\netcoreapp3.1\CSharpAdvanced.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\L&T\CSharpAdvanced\bin\Debug\netcoreapp3.1\CSharpAdvanced.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Desktop\L&T\CSharpAdvanced\bin\Debug\netcoreapp3.1\CSharpAdvanced.dll
+C:\Users\USER\OneDrive\Desktop\L&T\CSharpAdvanced\bin\Debug\netcoreapp3.1\CSharpAdvanced.pdb
+C:\Users\USER\OneDrive\Desktop\L&T\CSharpAdvanced\obj\Debug\netcoreapp3.1\CSharpAdvanced.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\L&T\CSharpAdvanced\obj\Debug\netcoreapp3.1\CSharpAdvanced.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\L&T\CSharpAdvanced\obj\Debug\netcoreapp3.1\CSharpAdvanced.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\L&T\CSharpAdvanced\obj\Debug\netcoreapp3.1\CSharpAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\L&T\CSharpAdvanced\obj\Debug\netcoreapp3.1\CSharpAdvanced.dll
+C:\Users\USER\OneDrive\Desktop\L&T\CSharpAdvanced\obj\Debug\netcoreapp3.1\CSharpAdvanced.pdb
+C:\Users\USER\OneDrive\Desktop\L&T\CSharpAdvanced\obj\Debug\netcoreapp3.1\CSharpAdvanced.genruntimeconfig.cache
